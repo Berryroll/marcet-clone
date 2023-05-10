@@ -49,5 +49,5 @@ footer {
   width: 30px;
 }
 .footer-icons:hover .footer-icons__img {
-  animation: 2s icons-둥둥;
+  animation: 1.5s icons-둥둥;
 }
